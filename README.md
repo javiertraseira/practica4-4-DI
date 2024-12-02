@@ -28,6 +28,9 @@ Modifica el menú anterior que hayas creado con las siguientes mejoras:
 
 - Agrega un logo a tu menú a la izquierda del todo.
 - Modifica los colores y la fuente utilizada. 
-- Implementa que el menú superior permanezca al hacer scroll (propiedad *sticky*), para lo cual deberás de agregar contenido de texto o una imagen central grande.
-- Agrega **submenús** a los enlaces propuestos.
+- Implementa que el menú superior permanezca al hacer scroll (propiedad *fixed* o la propiedad *sticky*), para lo cual deberás de agregar contenido de texto o una imagen central grande.
+- Agrega varios **submenús** inventados a los enlaces propuestos. 
+    - Agrega los siguientes elementos a un submenú: 
+        - Los de las propiedades de posicionamiento flex vistas: flex-direction, flex-wrap, justify-content, align-content, flex-grow/shrink. 
+        - Implementa dos de ellas mostrando al menos cinco cajas en las que se aplique la propiedad que hayas seleccionado. 
 
