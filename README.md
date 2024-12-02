@@ -26,7 +26,8 @@ Crea un **menú** sencillo en *Flexbox* con tu propio estilo y enlaces (no copie
 
 Modifica el menú anterior que hayas creado con las siguientes mejoras: 
 
-- Modifica los colores del fondo y la fuente utilizada. 
-- Implementa que el menú superior permanezca al hacer scroll (propiedad *sticky*) 
+- Agrega un logo a tu menú a la izquierda del todo.
+- Modifica los colores y la fuente utilizada. 
+- Implementa que el menú superior permanezca al hacer scroll (propiedad *sticky*), para lo cual deberás de agregar contenido de texto o una imagen central grande.
 - Agrega **submenús** a los enlaces propuestos.
 
