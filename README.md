@@ -34,4 +34,4 @@ Modifica el menú anterior que hayas creado con las siguientes mejoras:
 - Agrega al menos los siguientes elementos a uno de los submenús: 
     - Los de las propiedades de posicionamiento flex vistas: *flex-direction, flex-wrap, justify-content, align-content, flex-grow/shrink*. 
     - Implementa al menos **dos de ellas** mostrando cinco cajas en las que se aplique la propiedad que hayas seleccionado. 
-
+    ![](media/a2323243423fdas.png)
