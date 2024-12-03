@@ -7,6 +7,7 @@ Finaliza el tutorial **Layout with Flexbox** de **Codecademy** de la parte de *L
 ![](media/a8ef4b8035dca1f0187f42c476dd20ce.png)  
       
 ![](media/566d4e87e8064f493da137dc5d096cd0.png)
+
  a. Captura la finalización de dicho módulo desde tu cuenta en el que se aprecie claramente que estás logueado con los datos de tu cuenta en la carpeta *parte1*
 
  b. Resuelve el ejercicio final (**Review**) y envía el código HTML y CSS resultante en la carpeta *parte1*
