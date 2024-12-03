@@ -25,13 +25,13 @@ Crea un **menú** sencillo en *Flexbox* **con tu propio estilo, diseño y enlace
 
 ## Parte 3
 
-Modifica el menú anterior que hayas creado con las siguientes mejoras: 
+Modifica y mejora el menú anterior que hayas creado con las siguientes mejoras: 
 
 - Agrega la imagen de un logo a tu menú a la izquierda del todo.
 - Modifica los colores y la fuente por defecto utilizada. 
 - Implementa que el menú superior permanezca al hacer scroll (propiedad *fixed* o propiedad *sticky*), para lo cual deberás de agregar contenido de texto o una imagen central grande.
 - Agrega varios **submenús** inventados a los enlaces propuestos
 - Agrega al menos los siguientes elementos a uno de los submenús: 
-    - Los de las propiedades de posicionamiento flex vistas: *flex-direction, flex-wrap, justify-content, align-content, flex-grow/shrink*. 
-    - Implementa al menos **dos de ellas** mostrando cinco cajas en las que se aplique la propiedad que hayas seleccionado. 
+    - Los de las propiedades de posicionamiento flex vistas: *justify-content, align-items, align-content, flex-grow/shrink/basis/order*. 
+    - Implementa al menos **dos de ellas** mostrando cinco cajas en las que se muestre la propiedad aplicada que hayas seleccionado. 
     ![](media/a2323243423fdas.png)
