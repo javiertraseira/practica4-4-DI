@@ -14,9 +14,9 @@ Finaliza el tutorial **Layout with Flexbox** de **Codecademy** de la parte de *L
 
 ## Parte 2
 
-Crea un **menú** sencillo en *Flexbox* con tu propio estilo y enlaces (no copies el que hay) con las siguientes condiciones: 
+Crea un **menú** sencillo en *Flexbox* **con tu propio estilo, diseño y enlaces** (no copies el que hay) con las siguientes condiciones: 
  
-- Tendrá un título superior
+- Tendrá un título superior.
 - El menú estará alineado a la izquierda.
 - Permitirá *wrap* al redimensionarse.
 - Tendrá al menos 4-5 enlaces. 
@@ -27,11 +27,11 @@ Crea un **menú** sencillo en *Flexbox* con tu propio estilo y enlaces (no copie
 
 Modifica el menú anterior que hayas creado con las siguientes mejoras: 
 
-- Agrega un logo a tu menú a la izquierda del todo.
-- Modifica los colores y la fuente utilizada. 
-- Implementa que el menú superior permanezca al hacer scroll (propiedad *fixed* o la propiedad *sticky*), para lo cual deberás de agregar contenido de texto o una imagen central grande.
-- Agrega varios **submenús** inventados a los enlaces propuestos. 
-    - Agrega los siguientes elementos a un submenú: 
-        - Los de las propiedades de posicionamiento flex vistas: flex-direction, flex-wrap, justify-content, align-content, flex-grow/shrink. 
-        - Implementa dos de ellas mostrando al menos cinco cajas en las que se aplique la propiedad que hayas seleccionado. 
+- Agrega la imagen de un logo a tu menú a la izquierda del todo.
+- Modifica los colores y la fuente por defecto utilizada. 
+- Implementa que el menú superior permanezca al hacer scroll (propiedad *fixed* o propiedad *sticky*), para lo cual deberás de agregar contenido de texto o una imagen central grande.
+- Agrega varios **submenús** inventados a los enlaces propuestos
+- Agrega al menos los siguientes elementos a uno de los submenús: 
+    - Los de las propiedades de posicionamiento flex vistas: *flex-direction, flex-wrap, justify-content, align-content, flex-grow/shrink*. 
+    - Implementa al menos **dos de ellas** mostrando cinco cajas en las que se aplique la propiedad que hayas seleccionado. 
 
