@@ -1,4 +1,4 @@
-# Práctica 4.4 Introducción a CSS Flexbox
+# Práctica 4.4 CSS Grid y Flexbox
 
 ## Parte 1
 
