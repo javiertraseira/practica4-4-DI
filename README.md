@@ -1,37 +1,32 @@
-# Práctica 4.4 CSS Grid y Flexbox
+# Práctica 4.6 CSS Grid 
 
 ## Parte 1
 
-Finaliza el tutorial **Layout with Flexbox** de **Codecademy** de la parte de *Learn intermediate CSS.*   
+1. Finaliza el tutorial de **Grid Essentials** de **Codecademy** de la parte de *Learn Intermediate CSS* y captura la finalización de dicho módulo desde tu cuenta.  
       
-![](media/a8ef4b8035dca1f0187f42c476dd20ce.png)  
+    ![](media/a8ef4b8035dca1f0187f42c476dd20ce.png)  
       
-![](media/566d4e87e8064f493da137dc5d096cd0.png)
+    ![](media/af6ddb7c82f35c2809978d95a3f377b0.png)
 
- a. Captura la finalización de dicho módulo desde tu cuenta en el que se aprecie claramente que estás logueado con los datos de tu cuenta en la carpeta *parte1*
-
- b. Resuelve el ejercicio final (**Review**) y envía el código HTML y CSS resultante en la carpeta *parte1*
+2. Resuelve y practica con los ejercicios Grid planteados en **GridGarden** <https://cssgridgarden.com/>
 
 ## Parte 2
 
-Crea un **menú** sencillo en *Flexbox* **con tu propio estilo, diseño y enlaces** (no copies el que hay) con las siguientes condiciones: 
- 
-- Tendrá un título superior.
-- El menú estará alineado a la izquierda.
-- Permitirá *wrap* al redimensionarse.
-- Tendrá al menos 4-5 enlaces. 
+Partiendo del modelo de galería que creaste en Flexbox, simplifícala para usar *Grid* a un solo tamaño y usando la **delimitación de zonas** para ajustar imágenes de forma irregular en la rejilla.
 
-![](media/d851f648922393a1fc0987d99d970ee6.png)
+![](media/0c877362ad434d2d580ee39324a3d510.png)
 
 ## Parte 3
 
-Modifica y mejora el menú anterior que hayas creado con las siguientes mejoras: 
+Crea un diseño similar al siguiente en *HTML* y *CSS* usando las etiquetas ya vistas *header*, *content*, *sidebar* y *footer*: 
 
-- Agrega la imagen de un logo a tu menú a la izquierda del todo.
-- Modifica los colores y la fuente por defecto utilizada. 
-- Implementa que el menú superior permanezca al hacer scroll (propiedad *fixed* o propiedad *sticky*), para lo cual deberás de agregar contenido de texto o una imagen central grande.
-- Agrega varios **submenús** inventados a los enlaces propuestos
-- Agrega al menos los siguientes elementos a uno de los submenús: 
-    - Los de las propiedades de posicionamiento flex vistas: *justify-content, align-items, align-content, flex-grow/shrink/basis/order*. 
-    - Implementa al menos **dos de ellas** mostrando cinco cajas en las que se muestre la propiedad aplicada que hayas seleccionado. 
-    ![](media/a2323243423fdas.png)
+![](media/1568e0b29abc743a6293b8ee426db807.png)
+
+Modifícalo mediante *Grid* para que tenga la apariencia de los siguientes 4 elementos ordenados según la imagen usando tu propia apariencia en CSS:
+
+![](media/dc2f8055f5eb83c8f8998cbc6ecca0b3.png)
+
+Mejóralo de forma **responsive** para que con una resolución menor de *660px* se muestre en una sola columna.
+
+![](media/6b51b484628367916f932f0385196c25.png)
+
